@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationCalculator2", "PermutationCalculator2\PermutationCalculator2.csproj", "{3A436360-68E7-48EC-BCDA-749CBE8975CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A436360-68E7-48EC-BCDA-749CBE8975CF}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39DC9C81-A926-42F6-81E4-684E0B05A83E}
+	EndGlobalSection
+EndGlobal
