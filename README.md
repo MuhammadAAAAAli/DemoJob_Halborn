@@ -10,7 +10,9 @@
 
 ### PermutationCalculator2.sln 
 
-Reduces permutation exponential complexity by braking the process in two
+> I reduced `O(2^n)` to `O(n^4 + 2n^3)`
+
+Reduces permutation exponential complexity by braking the process in two :
 
 <li> seed domain space 
 <li> standard non exponential permutation code
