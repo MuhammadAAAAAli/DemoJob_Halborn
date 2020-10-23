@@ -8,6 +8,11 @@
 
 <hr>
 
-### PermutationCalculator2.sln reduces permutation exponential complexity by braking the process in two : seed domain space and standard non exponential permutation code
+### PermutationCalculator2.sln 
+
+Reduces permutation exponential complexity by braking the process in two
+
+<li> seed domain space 
+<li> standard non exponential permutation code
 
 <hr>
