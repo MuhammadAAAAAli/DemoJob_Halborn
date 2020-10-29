@@ -14,7 +14,7 @@
 
 Reduces permutation exponential complexity by braking the process in two :
 
-<li> seed domain space 
-<li> standard non exponential permutation code
+<li> domain 
+<li> standard non exponential permutation algorithm 
 
 <hr>
